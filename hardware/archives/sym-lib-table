@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ZX62-B-5PA(33)")(type Legacy)(uri "/home/lin/Desktop/aquarius-PCB/Kicad/library/samatec/ZX62-B-5PA(33).lib")(options "")(descr ""))
+  (lib (name aquarius)(type Legacy)(uri /home/lin/Desktop/aquarius-PCB/Kicad/library/aquarius.lib)(options "")(descr ""))
+)

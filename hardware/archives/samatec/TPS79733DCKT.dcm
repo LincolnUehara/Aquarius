@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS79733DCKT
+D TPS79733DCKT, Low Dropout Voltage Regulator, 0.05A, 3.3V +/-4%, 1.8 to 5.5Vin, 0.318W, 5-Pin SC-70
+K
+F http://www.ti.com/lit/ds/symlink/tps79718.pdf
+$ENDCMP
+#
+#End Doc Library

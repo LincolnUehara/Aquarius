@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name aquarius)(type KiCad)(uri ${KIPRJMOD}/aquarius.pretty)(options "")(descr ""))
+  (lib (name "ZX62-B-5PA(33)")(type Legacy)(uri "/home/lin/Desktop/aquarius-PCB/Kicad/library/samatec/ZX62-B-5PA(33).mod")(options "")(descr ""))
+  (lib (name TPS79733DCKT)(type Legacy)(uri /home/lin/Desktop/aquarius-PCB/Kicad/library/samatec/TPS79733DCKT.mod)(options "")(descr ""))
+  (lib (name JS202011SCQN)(type Legacy)(uri /home/lin/Desktop/aquarius-PCB/Kicad/library/samatec/JS202011SCQN.mod)(options "")(descr ""))
+  (lib (name PVG3A205C01R00)(type Legacy)(uri /home/lin/Desktop/aquarius-PCB/Kicad/library/samatec/PVG3A205C01R00.mod)(options "")(descr ""))
+)

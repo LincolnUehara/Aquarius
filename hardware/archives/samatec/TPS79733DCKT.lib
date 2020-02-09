@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TPS79733DCKT
+#/2366/139768/2.42/5/3/Integrated Circuit
+DEF TPS79733DCKT IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "TPS79733DCKT" 850 200 50 H V L CNN
+F2 "SOT65P210X110-5N" 850 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/tps79718.pdf" 850 0 50 H I L CNN
+F4 "TPS79733DCKT, Low Dropout Voltage Regulator, 0.05A, 3.3V +/-4%, 1.8 to 5.5Vin, 0.318W, 5-Pin SC-70" 850 -100 50 H I L CNN "Description"
+F5 "1.1" 850 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TPS79733DCKT" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-TPS79733DCKT" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TPS79733DCKT" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "6201962P" 850 -700 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/6201962P" 850 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X PG 1 0 0 200 R 50 50 0 0 B
+X GND 2 0 -100 200 R 50 50 0 0 B
+X NC 3 0 -200 200 R 50 50 0 0 B
+X IN 4 1000 0 200 L 50 50 0 0 B
+X OUT 5 1000 -100 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

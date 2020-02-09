@@ -1,0 +1,92 @@
+Source,/home/lin/Desktop/aquarius-PCB/Kicad/aquarius/aquarius.sch
+Kicad Rev,Eeschema 5.1.5-52549c5~84~ubuntu18.04.1
+Generated Date,sex 10 jan 2020 23:29:30 -03
+
+Title,Aquarius Project General Overview
+Company,Not Set
+Revision,1.1
+Date Issue,2019-12-15
+Comment,creativecommons.org/licenses/by/4.0
+Comment,License: CC BY 4.0
+Comment,Author: Everton Lincoln Uehara
+
+Reference,Value,Library,Library Ref
+Y1,16MHz,Device,Crystal
+R1,0,Device,R
+C1,10pF,Device,C
+C2,10pF,Device,C
+C6,0.1uF,Device,C
+C5,0.1uF,Device,C
+C4,1.0uF,Device,C
+C3,2.2uF,Device,C
+U1,TM4C1231C3PM,MCU_Texas,TM4C1231C3PM
+Q1,DTC114E,Transistor_BJT,DTC114E
+R3,R100,Device,R
+D1,LED,Device,LED
+Q2,DTC114E,Transistor_BJT,DTC114E
+R4,R100,Device,R
+D2,LED,Device,LED
+Q3,DTC114E,Transistor_BJT,DTC114E
+R5,R100,Device,R
+D3,LED,Device,LED
+Q4,DTC114E,Transistor_BJT,DTC114E
+R6,R100,Device,R
+D4,LED,Device,LED
+Q5,DTC114E,Transistor_BJT,DTC114E
+R7,R100,Device,R
+D5,LED,Device,LED
+Q11,DTC114E,Transistor_BJT,DTC114E
+R13,R100,Device,R
+D11,LED,Device,LED
+Q12,DTC114E,Transistor_BJT,DTC114E
+R14,R100,Device,R
+D12,LED,Device,LED
+Q13,DTC114E,Transistor_BJT,DTC114E
+R15,R100,Device,R
+D13,LED,Device,LED
+Q6,DTC114E,Transistor_BJT,DTC114E
+R8,R100,Device,R
+D6,LED,Device,LED
+Q7,DTC114E,Transistor_BJT,DTC114E
+R9,R100,Device,R
+D7,LED,Device,LED
+Q8,DTC114E,Transistor_BJT,DTC114E
+R10,R100,Device,R
+D8,LED,Device,LED
+Q9,DTC114E,Transistor_BJT,DTC114E
+R11,R100,Device,R
+D9,LED,Device,LED
+Q10,DTC114E,Transistor_BJT,DTC114E
+R12,R100,Device,R
+D10,LED,Device,LED
+U2,TPS73633DBV,Regulator_Linear,TPS73633DBV
+C8,0.01uF,Device,C
+C7,1.0uF,Device,C
+SW1,SW_DPDT_x2,Switch,SW_DPDT_x2
+C9,0.01uF,Device,C
+C10,0.1uF,Device,C
+C11,0.01uF,Device,C
+C12,0.1uF,Device,C
+C13,0.01uF,Device,C
+C14,1.0uF,Device,C
+J3,Conn_01x02,Connector_Generic,Conn_01x02
+R20,0,Device,R
+R19,0,Device,R
+R21,51k,Device,R
+R24,30k,Device,R
+SW2,SW_Push,Switch,SW_Push
+R22,10k,Device,R
+C15,0.1uF,Device,C
+RV1,R_POT,Device,R_POT
+RV2,R_POT,Device,R_POT
+J2,USB_B_Micro,Connector,USB_B_Micro
+R16,0,Device,R
+R17,0,Device,R
+R23,100k,Device,R
+J1,Conn_01x04,Connector_Generic,Conn_01x04
+X1,theGirl,aquarius,theGirl
+X2,rinhara_inkan,aquarius,rinhara_inkan
+X3,DesignedWithKicad,aquarius,DesignedWithKicad
+X4,OpenSourceHardware,aquarius,OpenSourceHardware
+X5,choose_indication,aquarius,choose_indication
+X6,control_indication,aquarius,control_indication
