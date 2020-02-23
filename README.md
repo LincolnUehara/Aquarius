@@ -36,12 +36,6 @@ Just turn on and the stars will shine! :star2:
 <img src="https://github.com/LincolnUehara/Aquarius/blob/master/img/back.jpg" width="512">
 </p>
 
-### Bill Of Materials (BOM)
-
-It | Will
------------- | -------------
-Come | Soon!
-
 ### Author
 
 Lincoln Uehara
