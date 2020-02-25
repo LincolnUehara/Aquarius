@@ -1,0 +1,21 @@
+References	Qty	Description	Part Number
+C1, C2	2	C 10pF Unpolarized capacitor 0603 1608Metric	
+C3	1	C 2.2uF Unpolarized capacitor 0603 1608Metric	
+C4, C7, C14	3	C 1.0uF Unpolarized capacitor 0603 1608Metric	
+C6, C5, C10, C12, C15	5	C 0.1uF Unpolarized capacitor 0603 1608Metric	
+C8, C9, C11, C13	4	C 0.01uF Unpolarized capacitor 0603 1608Metric	
+D1, D2, D3, D4, D5, D11, D12, D13, D6, D7, D8, D9, D10	13	LED Blue 0603 1608Metric	
+J2	1		ZX62B5PA33
+Q1, Q2, Q3, Q4, Q5, Q11, Q12, Q13, Q6, Q7, Q8, Q9, Q10	13		DTC114E SOT-23
+R1, R20, R19, R16, R17	5	R 0 Resistor 0603 1608Metric	
+R3, R4, R5, R6, R7, R13, R14, R15, R8, R9, R10, R11, R12	13	R R100 Resistor 0603 1608Metric	
+R21	1	R 51k Resistor 0603 1608Metric	
+R22	1	R 10k Resistor 0603 1608Metric	
+R23	1	R 100k Resistor 0603 1608Metric	
+R24	1	R 30k Resistor 0603 1608Metric	
+RV1, RV2	2		PVG3A
+SW1	1		JS202011SCQN
+SW2	1		B3S-1000
+U1	1		TM4C123GH6PMI
+U2	1		TPS73633DBV
+Y1	1	Crystal 16MHz SMD	

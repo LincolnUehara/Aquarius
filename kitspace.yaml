@@ -1,2 +1,3 @@
 color: black
-bom: https://github.com/LincolnUehara/Aquarius/blob/master/hardware/aquarius-BOM.csv
+bom: hardware/1-click-bom.tsv
+summary: Portrait-like PCB with constellation blinking randomically
