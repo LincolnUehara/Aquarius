@@ -2,84 +2,84 @@
 <export version="D">
   <design>
     <source>/home/lin/Desktop/aquarius-PCB/Kicad/aquarius/aquarius.sch</source>
-    <date>sex 10 jan 2020 23:29:30 -03</date>
+    <date>ter 25 fev 2020 13:51:03 -03</date>
     <tool>Eeschema 5.1.5-52549c5~84~ubuntu18.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Aquarius Project General Overview</title>
         <company/>
-        <rev>1.1</rev>
+        <rev>1.2</rev>
         <date>2019-12-15</date>
         <source>aquarius.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value="creativecommons.org/licenses/by/4.0"/>
         <comment number="3" value="License: CC BY 4.0"/>
-        <comment number="4" value="Author: Everton Lincoln Uehara"/>
+        <comment number="4" value="Author: E. Lincoln Uehara"/>
       </title_block>
     </sheet>
     <sheet number="2" name="/Microcontroller/" tstamps="/5CBB5070/">
       <title_block>
         <title>TM4C1231C3PM Microcontroller Connections</title>
         <company/>
-        <rev>1.1</rev>
+        <rev>1.2</rev>
         <date>2019-12-15</date>
         <source>mic.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value="creativecommons.org/licenses/by/4.0"/>
         <comment number="3" value="License: CC BY 4.0"/>
-        <comment number="4" value="Author: Everton Lincoln Uehara"/>
+        <comment number="4" value="Author: E. Lincoln Uehara"/>
       </title_block>
     </sheet>
     <sheet number="3" name="/Leds/Stars/" tstamps="/5CBB508E/">
       <title_block>
         <title>Stars/Leds Wiring</title>
         <company/>
-        <rev>1.1</rev>
+        <rev>1.2</rev>
         <date>2019-12-15</date>
         <source>leds.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value="creativecommons.org/licenses/by/4.0"/>
         <comment number="3" value="License: CC BY 4.0"/>
-        <comment number="4" value="Author: Everton Lincoln Uehara"/>
+        <comment number="4" value="Author: E. Lincoln Uehara"/>
       </title_block>
     </sheet>
     <sheet number="4" name="/Power Management/" tstamps="/5CBE97AC/">
       <title_block>
         <title>Power Management</title>
         <company/>
-        <rev>1.1</rev>
+        <rev>1.2</rev>
         <date>2019-12-15</date>
         <source>power.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value="creativecommons.org/licenses/by/4.0"/>
         <comment number="3" value="License: CC BY 4.0"/>
-        <comment number="4" value="Author: Everton Lincoln Uehara"/>
+        <comment number="4" value="Author: E. Lincoln Uehara"/>
       </title_block>
     </sheet>
     <sheet number="5" name="/Inputs/" tstamps="/5CBCC667/">
       <title_block>
         <title>Inputs</title>
         <company/>
-        <rev>1.1</rev>
+        <rev>1.2</rev>
         <date>2019-12-15</date>
         <source>inputs.sch</source>
         <comment number="1" value="USB, trimpots, reset button and debug interface"/>
         <comment number="2" value="creativecommons.org/licenses/by/4.0"/>
         <comment number="3" value="License: CC BY 4.0"/>
-        <comment number="4" value="Author: Everton Lincoln Uehara"/>
+        <comment number="4" value="Author: E. Lincoln Uehara"/>
       </title_block>
     </sheet>
     <sheet number="6" name="/Drawings/" tstamps="/5DF68380/">
       <title_block>
         <title>PCB Drawings</title>
         <company/>
-        <rev>1.1</rev>
+        <rev>1.2</rev>
         <date>2019-12-15</date>
         <source>draw.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value="creativecommons.org/licenses/by/4.0"/>
         <comment number="3" value="License: CC BY 4.0"/>
-        <comment number="4" value="Author: Everton Lincoln Uehara"/>
+        <comment number="4" value="Author: E. Lincoln Uehara"/>
       </title_block>
     </sheet>
   </design>
@@ -661,13 +661,6 @@
       <sheetpath names="/Drawings/" tstamps="/5DF68380/"/>
       <tstamp>5E001F13</tstamp>
     </comp>
-    <comp ref="X2">
-      <value>rinhara_inkan</value>
-      <footprint>aquarius:rinhara_inkan</footprint>
-      <libsource lib="aquarius" part="rinhara_inkan" description=""/>
-      <sheetpath names="/Drawings/" tstamps="/5DF68380/"/>
-      <tstamp>5E002258</tstamp>
-    </comp>
     <comp ref="X3">
       <value>DesignedWithKicad</value>
       <footprint>Symbol:KiCad-Logo2_8mm_Copper</footprint>
@@ -695,6 +688,13 @@
       <libsource lib="aquarius" part="control_indication" description=""/>
       <sheetpath names="/Drawings/" tstamps="/5DF68380/"/>
       <tstamp>5E0308D1</tstamp>
+    </comp>
+    <comp ref="X2">
+      <value>jlcpcb_order</value>
+      <footprint>aquarius:jlcpcb_order</footprint>
+      <libsource lib="aquarius" part="jlcpcb_order" description=""/>
+      <sheetpath names="/Drawings/" tstamps="/5DF68380/"/>
+      <tstamp>5E412807</tstamp>
     </comp>
   </components>
   <libparts>
@@ -1027,10 +1027,10 @@
         <field name="Value">control_indication</field>
       </fields>
     </libpart>
-    <libpart lib="aquarius" part="rinhara_inkan">
+    <libpart lib="aquarius" part="jlcpcb_order">
       <fields>
         <field name="Reference">X</field>
-        <field name="Value">rinhara_inkan</field>
+        <field name="Value">jlcpcb_order</field>
       </fields>
     </libpart>
     <libpart lib="aquarius" part="theGirl">
