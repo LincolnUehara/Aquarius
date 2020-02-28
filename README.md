@@ -36,6 +36,11 @@ Just turn on and the stars will shine! :star2:
 <img src="https://github.com/LincolnUehara/Aquarius/blob/master/img/back.jpg" width="512">
 </p>
 
+### Links
+
+* [hackster.io - PCB Portrait "Aquarius"](https://www.hackster.io/lin_hara/pcb-portrait-aquarius-eca035)
+* [Kitspace - Aquarius](https://kitspace.org/boards/github.com/lincolnuehara/aquarius/)
+
 ### Author
 
 Lincoln Uehara
